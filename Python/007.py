@@ -1,0 +1,6 @@
+print("Descobrindo o tipo de uma variável em python!")
+a = input("Digite algo: ")
+print("Descubra qual é o tipo primitivo da sua variável", a.isalpha())
+print("Descubra qual é o tipo primitivo da sua variável", a.isnumeric())
+print("Descubra qual é o tipo primitivo da sua variável", a.isupper())
+print("Descubra qual é o tipo primitivo da sua variável", a.islower())
